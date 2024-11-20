@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vamsichinni9999/Techosto-Assignment/static/css/main.5a6c2d4d.css",
+    "main.js": "/Vamsichinni9999/Techosto-Assignment/static/js/main.81fee118.js",
+    "index.html": "/Vamsichinni9999/Techosto-Assignment/index.html",
+    "main.5a6c2d4d.css.map": "/Vamsichinni9999/Techosto-Assignment/static/css/main.5a6c2d4d.css.map",
+    "main.81fee118.js.map": "/Vamsichinni9999/Techosto-Assignment/static/js/main.81fee118.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a6c2d4d.css",
+    "static/js/main.81fee118.js"
+  ]
+}
